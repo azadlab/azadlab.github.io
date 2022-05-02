@@ -14,7 +14,7 @@ author: J. Rafid Siddiqui
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme.md"
+  About Me: "aboutme"
   Resources:
     - Company: "https://www.azaditech.com"
     - Showcase: "https://www.linkedin.com/showcase/azadlab"
