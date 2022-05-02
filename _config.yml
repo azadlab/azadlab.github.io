@@ -14,7 +14,7 @@ author: J. Rafid Siddiqui
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am a academic researcher, an innovator and a writer. I have research background in Computer Vision and Machine Learning."
+  About Me: "aboutme.md"
   Resources:
     - Company: "https://www.azaditech.com"
     - Showcase: "https://www.linkedin.com/showcase/azadlab"
