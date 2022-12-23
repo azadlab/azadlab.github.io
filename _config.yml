@@ -14,12 +14,12 @@ author: AZAD LAB
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Resources:
+    - Azad Academy: "https://azadwolf.substack.com"
+    - Azad Lab: "https://www.linkedin.com/showcase/azadlab"
     - Company: "https://www.azaditech.com"
-    - Showcase: "https://www.linkedin.com/showcase/azadlab"
   Research Profile: "https://www.researchgate.net/profile/J-Rafid-Siddiqui"
-
+  About Me: "aboutme"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
