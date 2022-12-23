@@ -4,5 +4,5 @@ title: About me
 subtitle: 
 ---
 
-My name is J. Rafid Siddiqui and I have been involved in research & innovation for the past 15 years. I have experience of academic research in the fields of AI, Computer Vision, Deep Learning and Machine Learning. For more details you can check my researchgate or linkedin profiles.
+Dr. J. Rafid Siddiqui has been in the research & innovation domain for the past 15 years. He has experience of academic research in the fields of AI, Computer Vision, Deep Learning and Machine Learning. For more details you can check the researchgate or linkedin profiles.
 
