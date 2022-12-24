@@ -5,4 +5,4 @@ thumbnail-img: https://github.com/azadlab/covid-proximity-meter/raw/master/covid
 
 ---
 
-[![Autoencoders](https://github.com/azadlab/covid-proximity-meter/raw/master/covidMeter.jpg)](https://github.com/azadlab/covid-proximity-meter)
+[![](https://github.com/azadlab/covid-proximity-meter/raw/master/covidMeter.jpg)](https://github.com/azadlab/covid-proximity-meter)
